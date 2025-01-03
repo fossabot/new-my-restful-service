@@ -1,4 +1,6 @@
 ## Spring Boot를 이용한 RESTful Web Service 개발 (2023-11-15)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fseongilp%2Fnew-my-restful-service.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fseongilp%2Fnew-my-restful-service?ref=badge_shield)
+
 ### Spring Boot 3.1.5 기준으로 구현되었습니다.
 
 1. 사용자 관리 API
@@ -10,3 +12,7 @@
 2. 게시물 관리 API
 * 전체 게시물 목록 조회: HTTP GET method, http://localhost:8088/users/{id}/posts
 * 게시물 삭제: HTTP DELETE method, http://localhost:8088/users/{id}/posts/{post_id}
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fseongilp%2Fnew-my-restful-service.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fseongilp%2Fnew-my-restful-service?ref=badge_large)
